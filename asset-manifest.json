@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QuoteCollector/static/css/main.7cf635f0.css",
+    "main.js": "/QuoteCollector/static/js/main.81d282e6.js",
+    "index.html": "/QuoteCollector/index.html",
+    "main.7cf635f0.css.map": "/QuoteCollector/static/css/main.7cf635f0.css.map",
+    "main.81d282e6.js.map": "/QuoteCollector/static/js/main.81d282e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cf635f0.css",
+    "static/js/main.81d282e6.js"
+  ]
+}
