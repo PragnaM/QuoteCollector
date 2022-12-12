@@ -1,6 +1,6 @@
 describe("App test", () => {
   beforeEach(() => {
-    cy.visit("http://localhost:3000");
+    cy.visit("https://PragnaM.github.io/QuoteCollector");
   });
   it("display button", () => {
     cy.contains("Save Quote");
